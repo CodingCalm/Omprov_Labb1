@@ -3,6 +3,7 @@
 //================================================
 
 bool isRunning = true;
+int days = 7;
 
 while (isRunning)
 {
