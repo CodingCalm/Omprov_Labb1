@@ -4,6 +4,7 @@
 
 bool isRunning = true;
 int days = 7;
+string name = "Henrik";
 
 while (isRunning)
 {
